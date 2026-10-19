@@ -1,0 +1,30 @@
+# ОС
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Редакторы/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+*.orig
+
+# Окружения и секреты
+.env
+.env.local
+*.pem
+*.key
+
+# Зависимости и сборка
+node_modules/
+__pycache__/
+venv/
+dist/
+build/
+target/
