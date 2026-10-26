@@ -21,7 +21,7 @@ import os
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "src"))
 
-from delivery import calculate_delivery_cost
+from Delivery import calculate_delivery_cost
 
 BASE_DATE = "2026-09-03"  # фиксированная дата отправки в модуле
 
