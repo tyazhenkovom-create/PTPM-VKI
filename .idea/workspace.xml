@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04af337c-1cf1-4b2e-8ed6-a21ded631a5a" name="Changes" comment="lab1 done">
-      <change beforePath="$PROJECT_DIR$/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/converter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/converter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +74,11 @@
     "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\iscsi\profstud\TyazhenkovOM\Desktop\PTPM-VKI\tests" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

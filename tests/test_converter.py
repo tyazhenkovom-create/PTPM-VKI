@@ -1,6 +1,6 @@
 import unittest
 
-from converter import Converter
+from src.converter import Converter
 
 
 class TestConverterDo(unittest.TestCase):
